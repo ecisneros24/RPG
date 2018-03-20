@@ -24,6 +24,9 @@ int main (void)
 			printf ("You survive.\n");
 			break;
 			// you may choose another card
+		case 3:
+			printf ("You got lucky. You may go to another room");
+			break;
 		default:
 			break;
 	
