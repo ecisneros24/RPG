@@ -27,6 +27,9 @@ int main (void)
 		case 3:
 			printf ("You got lucky. You may go to another room");
 			break;
+		case 4:
+			printf ("You get another card");
+			break;
 		default:
 			break;
 	
